@@ -2,7 +2,7 @@ I am a full stack developer with experience in Typescript, Javascript, React,Rea
 
 
 # 💫 About Me:
-🔭 I’m currently working on a web based collaborative document editor. <br>🌱 I'm always exploring new technogies to utilze them to solve problems, currently I am learning .net with ASP>NET core.<br>
+🔭 I’m currently working on a web based collaborative document editor. <br>🌱 I'm always exploring new technogies to utilze them to solve problems, currently I am learning .net with ASP.NET core.<br>
 
 
 ## 🌐 Socials:
