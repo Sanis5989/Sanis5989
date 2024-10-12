@@ -1,5 +1,8 @@
+I am a full stack developer with experience in Typescript, Javascript, React,React-Native, Redux, Node, CSS, SQL and firebase. With my passion for coding and problem-solving, I have gained proficiency in creating web applications that are not only efficient but also user-friendly.
+
+
 # 💫 About Me:
-🔭 I’m currently working on a web based collaborative document editor. <br>🌱 I’m currently learning .net ASP.<br>
+🔭 I’m currently working on a web based collaborative document editor. <br>🌱 I'm always exploring new technogies to utilze them to solve problems, currently I am learning .net with ASP>NET core.<br>
 
 
 ## 🌐 Socials:
