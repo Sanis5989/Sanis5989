@@ -1,4 +1,4 @@
-I am a full stack developer with experience in Typescript, Javascript, React,React-Native, Redux, Node, CSS, SQL and firebase. With my passion for coding and problem-solving, I have gained proficiency in creating web applications that are not only efficient but also user-friendly.
+I am a full stack developer with experience in Typescript, Javascript, React,React-Native, Redux, Node, CSS, SQL and firebase. With my passion for coding and problem-solving, I have gained proficiency in creating software soltions that are not only efficient but also user-friendly.
 
 
 # 💫 About Me:
